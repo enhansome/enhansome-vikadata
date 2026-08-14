@@ -31,7 +31,7 @@ reject repetivie work and create more effective workflow.
 你可以通过阅读[《入门指南》](https://vika.cn/developers/api/quick-start)来快速上手体验维格表 API。
 
 * JavaScript: [vika.js](https://github.com/vikadata/vika.js) ⭐ 134 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-07 - Official Vika JavaScript SDK
-* Python: [vika.py](https://github.com/vikadata/vika.py) ⭐ 83 | 🐛 10 | 🌐 Python | 📅 2024-02-06 - Official Vika Python SDK
+* Python: [vika.py](https://github.com/vikadata/vika.py) ⭐ 84 | 🐛 10 | 🌐 Python | 📅 2024-02-06 - Official Vika Python SDK
 
 ### 👨‍💻社区维护的 SDK
 
@@ -109,4 +109,4 @@ reject repetivie work and create more effective workflow.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
