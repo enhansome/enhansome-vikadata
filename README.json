@@ -1,536 +1,543 @@
 {
   "items": [
     {
-      "description": "维格表官方提供各种 API 接口，可以让用户以 HTTPS 请求的方式从维格表上获取数据，或推送数据到维格表。\n通过维格表 API，你可以：",
-      "items": [],
+      "description": "维格表官方提供各种 API 接口，可以让用户以 HTTPS 请求的方式从维格表上获取数据，或推送数据到维格表。\n通过维格表 API，你可以：\n将维格表与其他软件连接，实现相互的数据传输，搭建高效工作流；作为后端的数据库，帮助快速搭建产品原型，验证想法;...",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript: vika.js",
+              "description": "Official Vika JavaScript SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286910115,
+                "language": "TypeScript",
+                "last_commit": "2025-01-07T07:33:12Z",
+                "owner": "vikadata",
+                "repo": "vika.js",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python: vika.py",
+              "description": "Official Vika Python SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297921140,
+                "language": "Python",
+                "last_commit": "2024-02-06T05:08:55Z",
+                "owner": "vikadata",
+                "repo": "vika.py",
+                "stars": 84
+              }
+            }
+          ],
+          "description": "你可以通过阅读《入门指南》来快速上手体验维格表 API。",
+          "node_type": "group",
+          "title": "👨‍💻官方维护的 SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Java: vika.java",
+              "description": "Third party vika Java SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306858167,
+                "language": "Java",
+                "last_commit": "2024-04-03T14:52:36Z",
+                "owner": "vikadata",
+                "repo": "vika.java",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golang: vika.go",
+              "description": "Third party vika Golang SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299599886,
+                "language": "Go",
+                "last_commit": "2023-07-04T02:33:59Z",
+                "owner": "vikadata",
+                "repo": "vika.go",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP: vika.php",
+              "description": "Third party vika PHP SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302853109,
+                "language": "PHP",
+                "last_commit": "2023-07-04T02:34:55Z",
+                "owner": "vikadata",
+                "repo": "vika.php",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "👨‍💻社区维护的 SDK"
+        }
+      ],
       "title": "🎯维格表 API SDK 集合，覆盖主流编程语言"
     },
     {
-      "description": "你可以通过阅读《入门指南》来快速上手体验维格表 API。",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "JavaScript: vika.js",
-          "description": "Official Vika JavaScript SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-07T07:33:12Z",
-            "owner": "vikadata",
-            "repo": "vika.js",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python: vika.py",
-          "description": "Official Vika Python SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-06T05:08:55Z",
-            "owner": "vikadata",
-            "repo": "vika.py",
-            "stars": 84
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wechat-openai-qa-bot",
+              "description": "微信智能问答机器人系统",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488511984,
+                "language": "TypeScript",
+                "last_commit": "2025-11-13T09:50:25Z",
+                "owner": "atorber",
+                "repo": "chatflow",
+                "stars": 432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vikadata-uploader",
+              "description": "基于 Picgo 的维格表附件上传插件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451173789,
+                "language": "TypeScript",
+                "last_commit": "2022-11-01T18:59:03Z",
+                "owner": "kwp-lab",
+                "repo": "picgo-plugin-vikadata",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vikadata-faq-engine",
+              "description": "企业微信话术库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430409921,
+                "language": "JavaScript",
+                "last_commit": "2022-12-29T06:09:02Z",
+                "owner": "kwp-lab",
+                "repo": "vika-faq-engine",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vikadata-downloader",
+              "description": "维格表附件批量下载器",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389700960,
+                "language": "JavaScript",
+                "last_commit": "2022-07-28T09:59:33Z",
+                "owner": "kwp-lab",
+                "repo": "vika-downloader",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "idaeaPPT Bootstrap",
+              "description": "在线演示的 PPT 数据库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382793944,
+                "language": "JavaScript",
+                "last_commit": "2021-07-04T08:26:28Z",
+                "owner": "kwp-lab",
+                "repo": "idealPPT-Bootstrap",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "product-scan-code-entry",
+              "description": "固定资产扫码录入",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442085896,
+                "language": null,
+                "last_commit": "2021-12-27T07:52:49Z",
+                "owner": "Niko030303",
+                "repo": "product-scan-code-entry",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "notice-daily-paper",
+              "description": "定时日报提醒",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464387898,
+                "language": "Python",
+                "last_commit": "2022-03-11T09:35:38Z",
+                "owner": "Niko030303",
+                "repo": "vikadata-api-notice-daily-paper",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "invitation-and-sign-in",
+              "description": "活动邀请与签到验证",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442087905,
+                "language": null,
+                "last_commit": "2021-12-27T07:53:50Z",
+                "owner": "Niko030303",
+                "repo": "invitation-and-sign-in",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "第三方开源"
         }
       ],
-      "title": "👨‍💻官方维护的 SDK"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Java: vika.java",
-          "description": "Third party vika Java SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-04-03T14:52:36Z",
-            "owner": "vikadata",
-            "repo": "vika.java",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golang: vika.go",
-          "description": "Third party vika Golang SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-07-04T02:33:59Z",
-            "owner": "vikadata",
-            "repo": "vika.go",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP: vika.php",
-          "description": "Third party vika PHP SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-07-04T02:34:55Z",
-            "owner": "vikadata",
-            "repo": "vika.php",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "👨‍💻社区维护的 SDK"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🎯开源 API 项目/插件"
     },
     {
-      "description": "",
+      "description": "维格小程序是维格表推出的扩展功能。通过小程序，可以让表里的数据得到延伸扩展，让数据得到更充分的有效利用，实现更丰富的数据传输和数据可视化。\n现在，维格表内支持自建小程序，让开发者充分运用 SDK 能力，开发更多符合业务场景和个人需求的小程序。\n主要使用 React 自定义开发维格表小程序\n你可以通过阅读《维格表开发者中心 - 小程序》来上手小程序开发。\n为了更好地让开发者上手维格小程序开发，我们将官方小程序项目全部开源，并且收录了一部分第三方开发者的小程序项目。\n如果你有开源小程序希望被 Awesome-Vikadata 收录，可以与我们联系。",
       "items": [
         {
-          "node_type": "item",
-          "title": "wechat-openai-qa-bot",
-          "description": "微信智能问答机器人系统",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-13T09:50:25Z",
-            "owner": "atorber",
-            "repo": "chatflow",
-            "stars": 432
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "widget-pivot-table",
+              "description": "透视表小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472644663,
+                "language": "TypeScript",
+                "last_commit": "2023-11-27T03:06:41Z",
+                "owner": "vikadata",
+                "repo": "widget-pivot-table",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-chart",
+              "description": "图表小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494410126,
+                "language": "TypeScript",
+                "last_commit": "2025-10-29T16:11:33Z",
+                "owner": "vikadata",
+                "repo": "widget-chart",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-summary",
+              "description": "统计与指标",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489644851,
+                "language": "TypeScript",
+                "last_commit": "2026-01-13T12:20:21Z",
+                "owner": "vikadata",
+                "repo": "widget-summary",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-funnel-chart",
+              "description": "漏斗图小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508606043,
+                "language": "TypeScript",
+                "last_commit": "2026-01-15T02:51:01Z",
+                "owner": "vikadata",
+                "repo": "widget-funnel-chart",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-datasheet-operation",
+              "description": "字段编辑器小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508624644,
+                "language": "TypeScript",
+                "last_commit": "2022-07-20T15:37:26Z",
+                "owner": "vikadata",
+                "repo": "widget-datasheet-operation",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-airtable-import",
+              "description": "Airtable 导入小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512678161,
+                "language": "TypeScript",
+                "last_commit": "2023-12-14T08:08:20Z",
+                "owner": "vikadata",
+                "repo": "widget-airtable-import",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "官方开源"
         },
         {
-          "node_type": "item",
-          "title": "vikadata-uploader",
-          "description": "基于 Picgo 的维格表附件上传插件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-11-01T18:59:03Z",
-            "owner": "kwp-lab",
-            "repo": "picgo-plugin-vikadata",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vikadata-faq-engine",
-          "description": "企业微信话术库",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-29T06:09:02Z",
-            "owner": "kwp-lab",
-            "repo": "vika-faq-engine",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vikadata-downloader",
-          "description": "维格表附件批量下载器",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-28T09:59:33Z",
-            "owner": "kwp-lab",
-            "repo": "vika-downloader",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "idaeaPPT Bootstrap",
-          "description": "在线演示的 PPT 数据库",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-07-04T08:26:28Z",
-            "owner": "kwp-lab",
-            "repo": "idealPPT-Bootstrap",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "product-scan-code-entry",
-          "description": "固定资产扫码录入",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-27T07:52:49Z",
-            "owner": "Niko030303",
-            "repo": "product-scan-code-entry",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "notice-daily-paper",
-          "description": "定时日报提醒",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-11T09:35:38Z",
-            "owner": "Niko030303",
-            "repo": "vikadata-api-notice-daily-paper",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "invitation-and-sign-in",
-          "description": "活动邀请与签到验证",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-27T07:53:50Z",
-            "owner": "Niko030303",
-            "repo": "invitation-and-sign-in",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "widget-docx-generator",
+              "description": "Word 文档生成器",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450852202,
+                "language": "TypeScript",
+                "last_commit": "2023-11-28T08:37:21Z",
+                "owner": "kwp-lab",
+                "repo": "vikadata-widget-docx-generator",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-rent-map",
+              "description": "地图信息展示小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431770103,
+                "language": "TypeScript",
+                "last_commit": "2022-06-02T11:33:21Z",
+                "owner": "laboonly",
+                "repo": "widgets-map",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-radar",
+              "description": "雷达图小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446764617,
+                "language": "TypeScript",
+                "last_commit": "2022-01-31T10:00:26Z",
+                "owner": "kwp-lab",
+                "repo": "vikadata-widget-radar",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-import-from-excel",
+              "description": "Excel 追加导入小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464318228,
+                "language": "TypeScript",
+                "last_commit": "2023-03-27T07:15:20Z",
+                "owner": "xukecheng",
+                "repo": "vikadata-widget-import-from-excel",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-find-and-replace",
+              "description": "批量查找替换小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437823513,
+                "language": "TypeScript",
+                "last_commit": "2022-01-25T07:16:55Z",
+                "owner": "Niko030303",
+                "repo": "vikadata-widget-find-and-replace",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-random",
+              "description": "抽奖小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440103644,
+                "language": "TypeScript",
+                "last_commit": "2023-03-28T08:24:31Z",
+                "owner": "Liamzai",
+                "repo": "vika-random-widget",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-record-preview",
+              "description": "记录预览小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464425408,
+                "language": "TypeScript",
+                "last_commit": "2022-03-17T07:30:05Z",
+                "owner": "yikeke",
+                "repo": "URL-Preview-Vika-Widget",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-word-cloud",
+              "description": "词云小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446751996,
+                "language": "TypeScript",
+                "last_commit": "2022-01-11T09:12:50Z",
+                "owner": "vikadata",
+                "repo": "widget-word-cloud",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-url-preview",
+              "description": "URL 预览小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464425408,
+                "language": "TypeScript",
+                "last_commit": "2022-03-17T07:30:05Z",
+                "owner": "yikeke",
+                "repo": "URL-Preview-Vika-Widget",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-candlestick-chart",
+              "description": "股票k线图预览小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437775970,
+                "language": "TypeScript",
+                "last_commit": "2021-12-15T08:02:47Z",
+                "owner": "Niko030303",
+                "repo": "vikadata-widget-candlestick-chart",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-calendar-heatmap",
+              "description": "日历热力图小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463105529,
+                "language": "TypeScript",
+                "last_commit": "2022-02-24T11:03:34Z",
+                "owner": "Niko030303",
+                "repo": "vikadata-widget-calendar-heatmap",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-translate-cells",
+              "description": "单元格翻译小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463355337,
+                "language": "JavaScript",
+                "last_commit": "2022-02-25T01:31:24Z",
+                "owner": "yikeke",
+                "repo": "Translate-Cells-Vika-Widget",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "widget-tencent-docs-preview",
+              "description": "腾讯文档预览小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470427905,
+                "language": "TypeScript",
+                "last_commit": "2022-03-16T04:29:04Z",
+                "owner": "Cococococococococococococo",
+                "repo": "tencent",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "第三方开源"
         }
       ],
-      "title": "第三方开源"
-    },
-    {
-      "description": "维格小程序是维格表推出的扩展功能。通过小程序，可以让表里的数据得到延伸扩展，让数据得到更充分的有效利用，实现更丰富的数据传输和数据可视化。\n现在，维格表内支持自建小程序，让开发者充分运用 SDK 能力，开发更多符合业务场景和个人需求的小程序。\n你可以通过阅读《维格表开发者中心 - 小程序》来上手小程序开发。\n为了更好地让开发者上手维格小程序开发，我们将官方小程序项目全部开源，并且收录了一部分第三方开发者的小程序项目。",
-      "items": [],
       "title": "🎯开源维格小程序"
-    },
-    {
-      "description": "widget-cli 是一个辅助式的命令行工具，它可以帮你快速初始化、运行、发布、下架小程序（构建和发布过程依赖了内置的 webpack）。\n目前，该命令行工具已开源，我们欢迎开发者一起共创。",
-      "items": [],
-      "title": "小程序命令行开发工具 (widget-cli)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "widget-pivot-table",
-          "description": "透视表小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-27T03:06:41Z",
-            "owner": "vikadata",
-            "repo": "widget-pivot-table",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-chart",
-          "description": "图表小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-29T16:11:33Z",
-            "owner": "vikadata",
-            "repo": "widget-chart",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-summary",
-          "description": "统计与指标",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-13T12:20:21Z",
-            "owner": "vikadata",
-            "repo": "widget-summary",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-funnel-chart",
-          "description": "漏斗图小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-15T02:51:01Z",
-            "owner": "vikadata",
-            "repo": "widget-funnel-chart",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-datasheet-operation",
-          "description": "字段编辑器小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-07-20T15:37:26Z",
-            "owner": "vikadata",
-            "repo": "widget-datasheet-operation",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-airtable-import",
-          "description": "Airtable 导入小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-14T08:08:20Z",
-            "owner": "vikadata",
-            "repo": "widget-airtable-import",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-todo-list-template",
-          "description": "TodoMVC 示例",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "widget-developer-template",
-          "description": "开发者模板",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "widget-hello-world-typescript",
-          "description": "HelloWorld 模板",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "widget-map",
-          "description": "维格地图小程序",
-          "children": []
-        }
-      ],
-      "title": "官方开源"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "widget-docx-generator",
-          "description": "Word 文档生成器",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-28T08:37:21Z",
-            "owner": "kwp-lab",
-            "repo": "vikadata-widget-docx-generator",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-rent-map",
-          "description": "地图信息展示小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-06-02T11:33:21Z",
-            "owner": "laboonly",
-            "repo": "widgets-map",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-radar",
-          "description": "雷达图小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-01-31T10:00:26Z",
-            "owner": "kwp-lab",
-            "repo": "vikadata-widget-radar",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-import-from-excel",
-          "description": "Excel 追加导入小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-27T07:15:20Z",
-            "owner": "xukecheng",
-            "repo": "vikadata-widget-import-from-excel",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-find-and-replace",
-          "description": "批量查找替换小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-01-25T07:16:55Z",
-            "owner": "Niko030303",
-            "repo": "vikadata-widget-find-and-replace",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-random",
-          "description": "抽奖小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-28T08:24:31Z",
-            "owner": "Liamzai",
-            "repo": "vika-random-widget",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-record-preview",
-          "description": "记录预览小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-17T07:30:05Z",
-            "owner": "yikeke",
-            "repo": "URL-Preview-Vika-Widget",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-word-cloud",
-          "description": "词云小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-01-11T09:12:50Z",
-            "owner": "vikadata",
-            "repo": "widget-word-cloud",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-url-preview",
-          "description": "URL 预览小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-17T07:30:05Z",
-            "owner": "yikeke",
-            "repo": "URL-Preview-Vika-Widget",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-candlestick-chart",
-          "description": "股票k线图预览小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-12-15T08:02:47Z",
-            "owner": "Niko030303",
-            "repo": "vikadata-widget-candlestick-chart",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-calendar-heatmap",
-          "description": "日历热力图小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-24T11:03:34Z",
-            "owner": "Niko030303",
-            "repo": "vikadata-widget-calendar-heatmap",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-translate-cells",
-          "description": "单元格翻译小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-25T01:31:24Z",
-            "owner": "yikeke",
-            "repo": "Translate-Cells-Vika-Widget",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "widget-tencent-docs-preview",
-          "description": "腾讯文档预览小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-16T04:29:04Z",
-            "owner": "Cococococococococococococo",
-            "repo": "tencent",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "第三方开源"
-    },
-    {
-      "description": "如果你基于维格表搭建出有趣的应用或工具，又或者有新颖的想法想跟其他用户交流，欢迎加入我们的 Discord 社区 👇\nJoin Discord",
-      "items": [],
-      "title": "社区支持"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:45:53.391Z",
+    "last_updated": "2026-08-19T12:55:59.818Z",
     "original_repository": "vikadata/awesome-vikadata",
+    "original_repository_id": 238950660,
     "original_repository_sha": "1e2d6c6d36c6e5ee88057413c2969be95bfd746e",
     "enhanced_repository": "enhansome/enhansome-vikadata",
     "enhanced_repository_description": null,
