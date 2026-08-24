@@ -235,6 +235,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "widget-cli",
+              "description": "是一个辅助式的命令行工具，它可以帮你快速初始化、运行、发布、下架小程序（构建和发布过程依赖了内置的 webpack）。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507820719,
+                "language": "TypeScript",
+                "last_commit": "2023-03-24T07:38:19Z",
+                "owner": "vikadata",
+                "repo": "widget-cli",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "目前，该命令行工具已开源，我们欢迎开发者一起共创。",
+          "node_type": "group",
+          "title": "小程序命令行开发工具 (widget-cli)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "widget-pivot-table",
               "description": "透视表小程序",
               "children": [],
@@ -535,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:35:49.654Z",
+    "last_updated": "2026-08-24T14:44:06.703Z",
     "original_repository": "vikadata/awesome-vikadata",
     "original_repository_id": 238950660,
     "original_repository_sha": "1e2d6c6d36c6e5ee88057413c2969be95bfd746e",
