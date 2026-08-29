@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vika is a API-based SaaS database platform for users and developers，here is JavaScript SDK for integration. 维格表(vika.cn)官方JavaScript SDK, 让你轻松集成维格表的 可视化API数据库能力。",
+                "homepage": "https://vika.cn",
                 "id": 286910115,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-07T07:33:12Z",
+                "open_issues": 2,
                 "owner": "vikadata",
                 "repo": "vika.js",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "database",
+                  "javascript-sdk",
+                  "low-code-plattform",
+                  "no-code-platform",
+                  "vika",
+                  "vikadata"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -28,12 +40,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vika is a API-based SaaS database platform for users and developers，here's Python SDK for integration. 维格表(vika.cn)官方 Python SDK, 让你轻松集成维格表的 可视化API数据库能力。",
+                "homepage": null,
                 "id": 297921140,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-06T05:08:55Z",
+                "open_issues": 10,
                 "owner": "vikadata",
                 "repo": "vika.py",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "vika"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             }
@@ -51,12 +70,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vika is a API-based SaaS database platform for users and developers, Java SDK for connecting vikadata Open API.",
+                "homepage": "https://vika.cn",
                 "id": 306858167,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-04-03T14:52:36Z",
+                "open_issues": 6,
                 "owner": "vikadata",
                 "repo": "vika.java",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "java",
+                  "java-sdk",
+                  "vika",
+                  "vika-api",
+                  "vika-java",
+                  "vika-java-sdk",
+                  "vikadata"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -67,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vika Golang SDK",
+                "homepage": null,
                 "id": 299599886,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-07-04T02:33:59Z",
+                "open_issues": 1,
                 "owner": "vikadata",
                 "repo": "vika.go",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -83,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 302853109,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-07-04T02:34:55Z",
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "vika.php",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             }
@@ -112,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个使用wechaty构建的机器人业务管理平台",
+                "homepage": "https://www.yuque.com/atorber/chatflow",
                 "id": 488511984,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-13T09:50:25Z",
+                "open_issues": 31,
                 "owner": "atorber",
                 "repo": "chatflow",
-                "stars": 432
+                "stars": 432,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -128,12 +175,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于 Picgo 开发的一款上传插件，你可以方便地将本地文件（图片、文档、PDF等等各种格式的文件）上传至vika维格表。",
+                "homepage": null,
                 "id": 451173789,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-01T18:59:03Z",
+                "open_issues": 2,
                 "owner": "kwp-lab",
                 "repo": "picgo-plugin-vikadata",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "attachment-uploader",
+                  "picgo",
+                  "picgo-plugin",
+                  "vikadata",
+                  "vikadata-api",
+                  "vikadata-uploader"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -144,12 +203,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "企业微信客服话术库-维格表版",
+                "homepage": null,
                 "id": 430409921,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-29T06:09:02Z",
+                "open_issues": 0,
                 "owner": "kwp-lab",
                 "repo": "vika-faq-engine",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "expressjs",
+                  "qcloud-scf",
+                  "serverless",
+                  "vikadata",
+                  "wecom",
+                  "weixin"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -160,12 +231,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "batch download vikadata's attachments",
+                "homepage": null,
                 "id": 389700960,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-28T09:59:33Z",
+                "open_issues": 0,
                 "owner": "kwp-lab",
                 "repo": "vika-downloader",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "api",
+                  "vika",
+                  "vika-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -176,12 +256,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "create beautiful presentation slides faster with vikadata and reveal.js",
+                "homepage": null,
                 "id": 382793944,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-04T08:26:28Z",
+                "open_issues": 0,
                 "owner": "kwp-lab",
                 "repo": "idealPPT-Bootstrap",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ppt",
+                  "presentation",
+                  "reveal-js",
+                  "vika",
+                  "vikadata"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -192,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "根据不同商品记录批量生成二维码、扫码录入表格",
+                "homepage": null,
                 "id": 442085896,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-12-27T07:52:49Z",
+                "open_issues": 0,
                 "owner": "Niko030303",
                 "repo": "product-scan-code-entry",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -208,12 +304,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python 遇上 vika API：实现「定时日报提醒」，轻松管理团队工作信息",
+                "homepage": null,
                 "id": 464387898,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-11T09:35:38Z",
+                "open_issues": 0,
                 "owner": "Niko030303",
                 "repo": "vikadata-api-notice-daily-paper",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "api",
+                  "notice",
+                  "python",
+                  "vika-api",
+                  "vikadata"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -224,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "根据宾客名单批量生成二维码、批量发送邀请邮件和扫码签到",
+                "homepage": null,
                 "id": 442087905,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-12-27T07:53:50Z",
+                "open_issues": 0,
                 "owner": "Niko030303",
                 "repo": "invitation-and-sign-in",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             }
@@ -253,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tool help you to build awesome vika widget",
+                "homepage": "https://vika.cn/developers/",
                 "id": 507820719,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-24T07:38:19Z",
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-cli",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             }
@@ -276,12 +393,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 472644663,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-27T03:06:41Z",
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-pivot-table",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -292,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 494410126,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-29T16:11:33Z",
+                "open_issues": 1,
                 "owner": "vikadata",
                 "repo": "widget-chart",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -308,12 +437,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "统计与指标（Summary）- 突出展示指定维格列的统计值和目标值，作为关键指标",
+                "homepage": null,
                 "id": 489644851,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-13T12:20:21Z",
+                "open_issues": 1,
                 "owner": "vikadata",
                 "repo": "widget-summary",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -324,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "漏斗图小程序",
+                "homepage": null,
                 "id": 508606043,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-15T02:51:01Z",
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-funnel-chart",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -340,12 +481,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "维格表编辑小程序",
+                "homepage": null,
                 "id": 508624644,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-07-20T15:37:26Z",
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-datasheet-operation",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "datasheet",
+                  "vika-widget",
+                  "vikadata"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -356,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 512678161,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-14T08:08:20Z",
+                "open_issues": 1,
                 "owner": "vikadata",
                 "repo": "widget-airtable-import",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             }
@@ -379,12 +534,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "根据docx模板，一键批量填充字段并合成新的word文档",
+                "homepage": "https://bbs.vika.cn/article/111",
                 "id": 450852202,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-11-28T08:37:21Z",
+                "open_issues": 2,
                 "owner": "kwp-lab",
                 "repo": "vikadata-widget-docx-generator",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "docx-generator",
+                  "vika",
+                  "vikadata",
+                  "vikdata-widget",
+                  "widget",
+                  "word-generator"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -395,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 431770103,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-06-02T11:33:21Z",
+                "open_issues": 0,
                 "owner": "laboonly",
                 "repo": "widgets-map",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -411,12 +583,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一款支持多条记录多项指标对比的雷达图（维格表小程序）",
+                "homepage": null,
                 "id": 446764617,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-01-31T10:00:26Z",
+                "open_issues": 0,
                 "owner": "kwp-lab",
                 "repo": "vikadata-widget-radar",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "radar",
+                  "vikadata",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -427,12 +608,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 464318228,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-27T07:15:20Z",
+                "open_issues": 0,
                 "owner": "xukecheng",
                 "repo": "vikadata-widget-import-from-excel",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "vika",
+                  "vika-widget",
+                  "vikadata",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -443,12 +634,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "选择一列，对符合查找条件的内容进行批量替换",
+                "homepage": null,
                 "id": 437823513,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-01-25T07:16:55Z",
+                "open_issues": 0,
                 "owner": "Niko030303",
                 "repo": "vikadata-widget-find-and-replace",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "awesome-vikadata",
+                  "find-and-replace",
+                  "vika",
+                  "vika-widget",
+                  "vikadata",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -459,12 +662,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vika随机抽取小组件",
+                "homepage": null,
                 "id": 440103644,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-28T08:24:31Z",
+                "open_issues": 0,
                 "owner": "Liamzai",
                 "repo": "vika-random-widget",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "lottery",
+                  "random",
+                  "vika",
+                  "vika-widget",
+                  "vikadata",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -475,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 464425408,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-03-17T07:30:05Z",
+                "open_issues": 0,
                 "owner": "yikeke",
                 "repo": "URL-Preview-Vika-Widget",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -491,12 +711,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "词云小程序",
+                "homepage": null,
                 "id": 446751996,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-01-11T09:12:50Z",
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-word-cloud",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -507,12 +734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 464425408,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-03-17T07:30:05Z",
+                "open_issues": 0,
                 "owner": "yikeke",
                 "repo": "URL-Preview-Vika-Widget",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -523,12 +755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "点击单元格，20行代码实现股票k线图预览（分时、日、月）",
+                "homepage": null,
                 "id": 437775970,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-12-15T08:02:47Z",
+                "open_issues": 0,
                 "owner": "Niko030303",
                 "repo": "vikadata-widget-candlestick-chart",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -539,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "根据日期统计频次渲染的日历小程序",
+                "homepage": null,
                 "id": 463105529,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-02-24T11:03:34Z",
+                "open_issues": 0,
                 "owner": "Niko030303",
                 "repo": "vikadata-widget-calendar-heatmap",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -555,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 463355337,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-25T01:31:24Z",
+                "open_issues": 0,
                 "owner": "yikeke",
                 "repo": "Translate-Cells-Vika-Widget",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -571,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 470427905,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-16T04:29:04Z",
+                "open_issues": 0,
                 "owner": "Cococococococococococococo",
                 "repo": "tencent",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             }
@@ -590,15 +842,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:02.762Z",
+    "last_updated": "2026-08-29T04:57:56.661Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",
+      "homepage": null,
       "id": 238950660,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-05-30T08:08:52Z",
+      "open_issues": 3,
       "owner": "vikadata",
       "repo": "awesome-vikadata",
-      "stars": 127
+      "stars": 127,
+      "topics": [
+        "api",
+        "awesome",
+        "awesome-list",
+        "nodejs",
+        "react",
+        "vika-api",
+        "vika-plugin",
+        "vika-widget",
+        "vikadata",
+        "widget"
+      ]
     },
     "original_repository_sha": "1e2d6c6d36c6e5ee88057413c2969be95bfd746e",
     "enhanced_repository": "enhansome/enhansome-vikadata",
