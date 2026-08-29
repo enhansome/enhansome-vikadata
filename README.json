@@ -18,7 +18,8 @@
                 "owner": "vikadata",
                 "repo": "vika.js",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "vikadata",
                 "repo": "vika.py",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             }
           ],
           "description": "你可以通过阅读《入门指南》来快速上手体验维格表 API。",
@@ -55,7 +57,8 @@
                 "owner": "vikadata",
                 "repo": "vika.java",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "vikadata",
                 "repo": "vika.go",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "vikadata",
                 "repo": "vika.php",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             }
           ],
           "description": null,
@@ -113,7 +118,8 @@
                 "owner": "atorber",
                 "repo": "chatflow",
                 "stars": 432
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -128,7 +134,8 @@
                 "owner": "kwp-lab",
                 "repo": "picgo-plugin-vikadata",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -143,7 +150,8 @@
                 "owner": "kwp-lab",
                 "repo": "vika-faq-engine",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "kwp-lab",
                 "repo": "vika-downloader",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "kwp-lab",
                 "repo": "idealPPT-Bootstrap",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "Niko030303",
                 "repo": "product-scan-code-entry",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "Niko030303",
                 "repo": "vikadata-api-notice-daily-paper",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "Niko030303",
                 "repo": "invitation-and-sign-in",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             }
           ],
           "description": null,
@@ -246,7 +259,8 @@
                 "owner": "vikadata",
                 "repo": "widget-cli",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             }
           ],
           "description": "目前，该命令行工具已开源，我们欢迎开发者一起共创。",
@@ -268,7 +282,8 @@
                 "owner": "vikadata",
                 "repo": "widget-pivot-table",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -283,7 +298,8 @@
                 "owner": "vikadata",
                 "repo": "widget-chart",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -298,7 +314,8 @@
                 "owner": "vikadata",
                 "repo": "widget-summary",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -313,7 +330,8 @@
                 "owner": "vikadata",
                 "repo": "widget-funnel-chart",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -328,7 +346,8 @@
                 "owner": "vikadata",
                 "repo": "widget-datasheet-operation",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -343,7 +362,8 @@
                 "owner": "vikadata",
                 "repo": "widget-airtable-import",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             }
           ],
           "description": null,
@@ -365,7 +385,8 @@
                 "owner": "kwp-lab",
                 "repo": "vikadata-widget-docx-generator",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -380,7 +401,8 @@
                 "owner": "laboonly",
                 "repo": "widgets-map",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -395,7 +417,8 @@
                 "owner": "kwp-lab",
                 "repo": "vikadata-widget-radar",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "xukecheng",
                 "repo": "vikadata-widget-import-from-excel",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -425,7 +449,8 @@
                 "owner": "Niko030303",
                 "repo": "vikadata-widget-find-and-replace",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -440,7 +465,8 @@
                 "owner": "Liamzai",
                 "repo": "vika-random-widget",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -455,7 +481,8 @@
                 "owner": "yikeke",
                 "repo": "URL-Preview-Vika-Widget",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -470,7 +497,8 @@
                 "owner": "vikadata",
                 "repo": "widget-word-cloud",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -485,7 +513,8 @@
                 "owner": "yikeke",
                 "repo": "URL-Preview-Vika-Widget",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -500,7 +529,8 @@
                 "owner": "Niko030303",
                 "repo": "vikadata-widget-candlestick-chart",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -515,7 +545,8 @@
                 "owner": "Niko030303",
                 "repo": "vikadata-widget-calendar-heatmap",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -530,7 +561,8 @@
                 "owner": "yikeke",
                 "repo": "Translate-Cells-Vika-Widget",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             },
             {
               "node_type": "item",
@@ -545,7 +577,8 @@
                 "owner": "Cococococococococococococo",
                 "repo": "tencent",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
             }
           ],
           "description": null,
@@ -557,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:24:47.709Z",
+    "last_updated": "2026-08-29T00:01:02.762Z",
     "original_repository_info": {
       "archived": false,
       "id": 238950660,
