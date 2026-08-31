@@ -35,7 +35,7 @@ reject repetivie work and create more effective workflow.
 
 ### 👨‍💻社区维护的 SDK
 
-* Java: [vika.java](https://github.com/vikadata/vika.java) ⭐ 32 | 🐛 6 | 🌐 Java | 📅 2024-04-03 - Third party vika Java SDK
+* Java: [vika.java](https://github.com/vikadata/vika.java) ⭐ 33 | 🐛 6 | 🌐 Java | 📅 2024-04-03 - Third party vika Java SDK
 * Golang: [vika.go](https://github.com/vikadata/vika.go) ⭐ 17 | 🐛 1 | 🌐 Go | 📅 2023-07-04 - Third party vika Golang SDK
 * PHP: [vika.php](https://github.com/vikadata/vika.php) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2023-07-04 - Third party vika PHP SDK
 
@@ -109,4 +109,4 @@ reject repetivie work and create more effective workflow.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
