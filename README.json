@@ -79,7 +79,7 @@
                 "open_issues": 6,
                 "owner": "vikadata",
                 "repo": "vika.java",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "java",
                   "java-sdk",
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:49:46.857Z",
+    "last_updated": "2026-09-01T18:29:41.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",
