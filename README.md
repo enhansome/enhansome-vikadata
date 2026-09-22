@@ -94,8 +94,8 @@ reject repetivie work and create more effective workflow.
 * [widget-find-and-replace](https://github.com/Niko030303/vikadata-widget-find-and-replace) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2022-01-25 批量查找替换小程序
 * [widget-random](https://github.com/Liamzai/vika-random-widget) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-28 抽奖小程序
 * [widget-record-preview](https://github.com/yikeke/URL-Preview-Vika-Widget) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-17 记录预览小程序
-* [widget-word-cloud](https://github.com/vikadata/widgets-word-cloud) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2022-01-11 词云小程序
 * [widget-url-preview](https://github.com/yikeke/URL-Preview-Vika-Widget) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-17 URL 预览小程序
+* [widget-word-cloud](https://github.com/vikadata/widgets-word-cloud) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-01-11 词云小程序
 * [widget-candlestick-chart](https://github.com/Niko030303/vikadata-widget-candlestick-chart) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2021-12-15 股票k线图预览小程序
 * [widget-calendar-heatmap](https://github.com/Niko030303/vikadata-widget-calendar-heatmap) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-02-24 日历热力图小程序
 * [widget-translate-cells](https://github.com/yikeke/Translate-Cells-Vika-Widget) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-02-25 单元格翻译小程序
@@ -109,4 +109,4 @@ reject repetivie work and create more effective workflow.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

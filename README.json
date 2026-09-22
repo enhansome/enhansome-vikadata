@@ -706,29 +706,6 @@
             },
             {
               "node_type": "item",
-              "title": "widget-word-cloud",
-              "description": "词云小程序",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "词云小程序",
-                "homepage": null,
-                "id": 446751996,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2022-01-11T09:12:50Z",
-                "open_issues": 0,
-                "owner": "vikadata",
-                "repo": "widget-word-cloud",
-                "stars": 1,
-                "topics": [
-                  "widget"
-                ]
-              },
-              "first_seen": "2026-08-29T00:01:02.762Z"
-            },
-            {
-              "node_type": "item",
               "title": "widget-url-preview",
               "description": "URL 预览小程序",
               "children": [],
@@ -745,6 +722,29 @@
                 "repo": "URL-Preview-Vika-Widget",
                 "stars": 1,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:01:02.762Z"
+            },
+            {
+              "node_type": "item",
+              "title": "widget-word-cloud",
+              "description": "词云小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "词云小程序",
+                "homepage": null,
+                "id": 446751996,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2022-01-11T09:12:50Z",
+                "open_issues": 0,
+                "owner": "vikadata",
+                "repo": "widget-word-cloud",
+                "stars": 0,
+                "topics": [
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
             },
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:58:57.205Z",
+    "last_updated": "2026-09-22T18:54:06.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",
