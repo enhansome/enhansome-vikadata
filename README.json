@@ -163,7 +163,7 @@
                 "open_issues": 31,
                 "owner": "atorber",
                 "repo": "chatflow",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:02.762Z"
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:34:44.761Z",
+    "last_updated": "2026-10-20T19:15:13.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",
