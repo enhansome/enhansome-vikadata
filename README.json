@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "vikadata",
                 "repo": "vika.js",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "database",
                   "javascript-sdk",
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:06:18.765Z",
+    "last_updated": "2026-11-03T20:58:00.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",
