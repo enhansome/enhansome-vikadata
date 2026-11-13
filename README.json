@@ -422,7 +422,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-10-29T16:11:33Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-chart",
                 "stars": 4,
@@ -443,7 +443,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-01-13T12:20:21Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-summary",
                 "stars": 1,
@@ -512,7 +512,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2023-12-14T08:08:20Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "vikadata",
                 "repo": "widget-airtable-import",
                 "stars": 0,
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:50:21.527Z",
+    "last_updated": "2026-11-13T21:25:17.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",

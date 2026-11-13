@@ -75,11 +75,11 @@ reject repetivie work and create more effective workflow.
 ### 官方开源
 
 * [widget-pivot-table](https://github.com/vikadata/vikadata-widget-pivot-table) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-27 透视表小程序
-* [widget-chart](https://github.com/vikadata/widget-chart) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-29 图表小程序
-* [widget-summary](https://github.com/vikadata/widget-summary) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-13 统计与指标
+* [widget-chart](https://github.com/vikadata/widget-chart) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-29 图表小程序
+* [widget-summary](https://github.com/vikadata/widget-summary) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-13 统计与指标
 * [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-15 漏斗图小程序
 * [widget-datasheet-operation](https://github.com/vikadata/widget-datasheet-operation) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-20 字段编辑器小程序
-* [widget-airtable-import](https://github.com/vikadata/widget-airtable-import) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2023-12-14 Airtable 导入小程序
+* [widget-airtable-import](https://github.com/vikadata/widget-airtable-import) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-14 Airtable 导入小程序
 * [widget-todo-list-template](https://github.com/vikadata/widgets-todo-list-template) TodoMVC 示例
 * [widget-developer-template](https://github.com/vikadata/widgets-developer-template) 开发者模板
 * [widget-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript) HelloWorld 模板
@@ -109,4 +109,4 @@ reject repetivie work and create more effective workflow.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
