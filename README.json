@@ -160,7 +160,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-11-13T09:50:25Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "atorber",
                 "repo": "chatflow",
                 "stars": 433,
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:02:57.554Z",
+    "last_updated": "2026-11-24T02:12:01.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers",
